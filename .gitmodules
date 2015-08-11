@@ -1,0 +1,3 @@
+[submodule "project/sbt-haxe"]
+	path = project/sbt-haxe
+	url = git@github.com:new-cbs/sbt-haxe.git
